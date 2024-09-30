@@ -1,0 +1,10 @@
+.loader {
+  padding-top: 10px;
+  justify-content: center;
+  z-index: 100;
+}
+
+.loader svg {
+  height: 40px;
+  width: 40px;
+}

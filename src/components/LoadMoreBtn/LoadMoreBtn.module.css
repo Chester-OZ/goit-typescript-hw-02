@@ -1,0 +1,15 @@
+.more {
+  margin: 0 auto;
+  outline: none;
+  padding: 6px 12px;
+  width: 20%;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  color: lightgray;
+  background-color: inherit;
+}
+
+.more:hover,
+.more:focus {
+  box-shadow: 5px 3px 10px rgb(235, 235, 235);
+}
